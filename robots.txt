@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valena.in/sitemap.xml
